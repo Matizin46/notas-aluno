@@ -1,0 +1,7 @@
+C:\Users\matheus.psilva54\source\repos\Notas_do_Aluno\Notas_do_Aluno\bin\Debug\Notas_do_Aluno.exe.config
+C:\Users\matheus.psilva54\source\repos\Notas_do_Aluno\Notas_do_Aluno\bin\Debug\Notas_do_Aluno.exe
+C:\Users\matheus.psilva54\source\repos\Notas_do_Aluno\Notas_do_Aluno\bin\Debug\Notas_do_Aluno.pdb
+C:\Users\matheus.psilva54\source\repos\Notas_do_Aluno\Notas_do_Aluno\obj\Debug\Notas_do_Aluno.csproj.AssemblyReference.cache
+C:\Users\matheus.psilva54\source\repos\Notas_do_Aluno\Notas_do_Aluno\obj\Debug\Notas_do_Aluno.csproj.CoreCompileInputs.cache
+C:\Users\matheus.psilva54\source\repos\Notas_do_Aluno\Notas_do_Aluno\obj\Debug\Notas_do_Aluno.exe
+C:\Users\matheus.psilva54\source\repos\Notas_do_Aluno\Notas_do_Aluno\obj\Debug\Notas_do_Aluno.pdb
